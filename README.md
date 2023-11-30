@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhammedsaidckr
 - 👀 I’m interested in Server side programming 
 - 🌱 I’m currently learning solidity and blockchain technologies
-- 💞️ I’m looking to collaborate on IBCL
+- 💞️ QBITWISE
 - 📫 How to reach me muhammedsaidckr@gmail.com
 
 <!---
