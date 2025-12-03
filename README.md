@@ -23,5 +23,4 @@
 ![AI](https://img.shields.io/badge/AI-00ADD8?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 📊 GitHub Stats
-[![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedsaidckr&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaidckr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
