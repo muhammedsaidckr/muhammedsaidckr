@@ -5,7 +5,6 @@
 - 🌍 Based in Türkiye
 - 🔭 Working on backend platforms, generative media tooling, and ESP32 sensor nodes
 - 🌱 Exploring smart-garden control loops and face-recognition research
-- 💞️ Working at QBITWISE
 - 🏢 Running [MSC Labs](https://msclabs.tr), an independent studio for web tools, Android apps and applied computer vision · [@msc-labss](https://github.com/msc-labss)
 - 📫 Available for selected collaborations
 
